@@ -1,8 +1,8 @@
-[![MasterHead](full-stack-developer.avif)]
+![MasterHead](full-stack-developer.avif)
 
 <h1 align="center">Hi 👋, I'm Nayrit</h1>
 <h3 align="center">I am a Green Coder in Codeforces from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="nayrit.gif"> 
+<img align="center" alt="Coding" width="400" src="nayrit.gif"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayrit" alt="nayrit" /></a> </p>
 
 - 🔭 I’m currently working on [Cressida](https://github.com/Nayrit/Cressida.git)
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayrit&show_icons=true&locale=en" alt="nayrit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayrit&" alt="nayrit" /></p>
+
