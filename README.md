@@ -1,4 +1,4 @@
-[![MasterHead](full-stack-developer.avif)]
+![MasterHead](full-stack-developer.avif)
 
 <h1 align="center">Hi 👋, I'm A.R. Raffiuzzaman Nayrit</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh Also a Green Coder in Codeforces.</h3>
