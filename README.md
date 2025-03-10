@@ -1,4 +1,4 @@
-![MasterHead](giphy.gif)
+![MasterHead](full-stack-developer.avif)
 
 <h1 align="center">Hi 👋, I'm Nayrit</h1>
 <h3 align="center">I am a Green Coder in Codeforces from Bangladesh.</h3>
