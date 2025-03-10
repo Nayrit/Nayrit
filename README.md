@@ -1,17 +1,15 @@
-![MasterHead](full-stack-developer.avif)
+[![MasterHead](full-stack-developer.avif)]
 
-<h1 align="center">Hi 👋, I'm A.R. Raffiuzzaman Nayrit</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh Also a Green Coder in Codeforces.</h3>
-
-
-<img align="right" alt="Coding" width="400" src="nayrit.gif">  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayrit&label=Profile%20views&color=0e75b6&style=flat" alt="nayrit" /> </p>
-
+<h1 align="center">Hi 👋, I'm Nayrit</h1>
+<h3 align="center">I am a Green Coder in Codeforces from Bangladesh.</h3>
+<img align="right" alt="Coding" width="400" src="nayrit.gif"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayrit" alt="nayrit" /></a> </p>
+
+- 🔭 I’m currently working on [Cressida](https://github.com/Nayrit/Cressida.git)
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Full_Stack_Developing, ASP.net(MVC), JAVA, Competitive_Programming**
+- 💬 Ask me about **C, C++, ASP.net(MVC), JAVA, Competitive_Programming**
 
 - 📫 How to reach me **nayritarn@gmail.com**
 
@@ -22,7 +20,6 @@
 <a href="https://linkedin.com/in/a-r-raffiuzzaman-nayrit-7aa3002b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-r-raffiuzzaman-nayrit-7aa3002b2" height="30" width="40" /></a>
 <a href="https://fb.com/nayrit1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayrit1234" height="30" width="40" /></a>
 <a href="https://instagram.com/_ciki_ciki__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ciki_ciki__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nayrit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayrit_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nayrit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nayrit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raffiuzzaman_cs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raffiuzzaman_cs1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/naytive_ritninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naytive_ritninja" height="30" width="40" /></a>
