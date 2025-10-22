@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="nayrit.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayrit&label=Profile%20views&color=0e75b6&style=flat" alt="nayrit" /> </p>
-- 🔭 I’m currently working on [Cressida](https://github.com/Nayrit/Cressida.git)
+- 🔭 I’m currently working on [Cressida](https://cressida.studio/)
 
 - 🌱 I’m currently learning **MERN**
 
