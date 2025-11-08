@@ -1,7 +1,7 @@
 ![MasterHead](full-stack-developer.avif)
 
 <h1 align="center">Hi 👋, I'm Nayrit</h1>
-<h3 align="center">I am a Green Coder in Codeforces from Bangladesh.</h3>
+<h3 align="center">I am a Green Coder in Codeforces from Jashore,Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="nayrit.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayrit&label=Profile%20views&color=0e75b6&style=flat" alt="nayrit" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C, C++, ASP.net(MVC), JAVA, Competitive_Programming**
+- 💬 Ask me about **C, C++,React.js, ASP.net(MVC), JAVA, Competitive_Programming**
 
 - 📫 How to reach me **nayritarn@gmail.com**
 
