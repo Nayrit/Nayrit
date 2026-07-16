@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="nayrit.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nayrit&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nayrit" /> 
+  <img src="https://komarev.com/ghpvc/?username=nayrit&label=Profile%20views&color=0e75b6&style=flat" alt="nayrit" /> 
 </p>
 
 - 🔭 I’m currently working on [Cressida](https://cressida.studio/)
@@ -64,16 +64,8 @@
 
 <br>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nayrit" alt="nayrit" />
-  </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nayrit)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayrit&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="nayrit" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nayrit&show_icons=true&locale=en&layout=compact)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayrit&amp;show_icons=true&amp;locale=en" alt="nayrit" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrit&show_icons=true&locale=en)
