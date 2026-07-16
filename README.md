@@ -64,8 +64,16 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nayrit)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nayrit&theme=radical&v=1" alt="nayrit trophy" />
+  </a> 
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nayrit&show_icons=true&locale=en&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayrit&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="Top Langs" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrit&show_icons=true&locale=en)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayrit&show_icons=true&locale=en&theme=radical&v=1" alt="GitHub Stats" />
+</p>
