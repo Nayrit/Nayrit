@@ -99,7 +99,7 @@
 <p align="center">
   <!-- Daily Streak Stats -->
   <a href="https://github.com/nayrit">
-    <img src="https://streak-stats.demolab.com/?user=nayrit&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-sand-omega.vercel.app/?user=nayrit&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
