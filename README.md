@@ -89,7 +89,7 @@
 <p align="center">
   <!-- Stats & Top Languages using YOUR PRIVATE VERCEL MIRROR -->
   <a href="https://github.com/nayrit">
-    <img src="https://github-readme-stats-iota-nine-20.vercel.app/api?username=nayrit&show_icons=true&locale=en&theme=radical" alt="Nayrit's GitHub Stats" height="195" />
+    <img src="https://github-readme-stats-iota-nine-20.vercel.app/api?username=nayrit&show_icons=true&locale=en&theme=radical&count_private=true" alt="Nayrit's GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/nayrit">
     <img src="https://github-readme-stats-iota-nine-20.vercel.app/api/top-langs?username=nayrit&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="195" />
