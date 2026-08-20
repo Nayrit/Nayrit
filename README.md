@@ -18,7 +18,7 @@
         <li>🔭 Currently working on <a href="https://cressida.studio/"><b>Cressida</b></a></li>
         <li>🌱 Currently mastering <b>LARAVEL</b></li>
         <li>💬 Ask me about <b>C, C++, React.js, ASP.NET (MVC), Java & Competitive Programming</b></li>
-        <li>📫 Reach me at <a href="mailto:nayritarn@gmail.com"><b>nayritarn@gmail.com</b></a></li>
+        <li>📫 Reach me at <a href="mailto:nayrit.zaman@gmail.com"><b>nayrit.zaman@gmail.com</b></a></li>
         <li>⚡ Fun fact: <i>I type faster than most people (76 WPM)</i></li>
       </ul>
       <br>
