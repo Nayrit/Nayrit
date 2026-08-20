@@ -4,7 +4,6 @@
 <h3 align="center">Green Coder in Codeforces from Jashore, Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayrit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Speed-76%20WPM-00d1b2?style=flat&logo=speedtest&logoColor=white" alt="76 WPM" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat" alt="Active" />
 </p>
@@ -17,7 +16,7 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🔭 Currently working on <a href="https://cressida.studio/"><b>Cressida</b></a></li>
-        <li>🌱 Currently mastering <b>MERN Stack</b></li>
+        <li>🌱 Currently mastering <b>LARAVEL</b></li>
         <li>💬 Ask me about <b>C, C++, React.js, ASP.NET (MVC), Java & Competitive Programming</b></li>
         <li>📫 Reach me at <a href="mailto:nayritarn@gmail.com"><b>nayritarn@gmail.com</b></a></li>
         <li>⚡ Fun fact: <i>I type faster than most people (76 WPM)</i></li>
